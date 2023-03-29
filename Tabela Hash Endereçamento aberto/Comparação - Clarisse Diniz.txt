@@ -1,0 +1,2 @@
+De acordo com a comparação de tempo feita entre os arquivos de 1000 números e 100.000 números, a diferença foi de 2 segundos do arquivo de 1000 para 100.000, 
+podendo ocorrer variações de tempo.
